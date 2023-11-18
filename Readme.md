@@ -1,5 +1,5 @@
 # 💫 Apresentação:
-Sou especialista em gerenciamento de projetos com experiência na área de tratamento e análise de dados.<br><br> Possuo habilidades multidisciplinares com domínio de ferramentas analíticas e de gestão, e certificação de especialista em Power BI e Master Black Belt em Lean Six Sigma.<br><br> Conhecimento avançado em SQL e linguagem DAX, M e Power Query, e intermediário em Python, Alteryx, Knime e Microsoft Power Platform.<br><br>Atualmente, estou me dedicando à área de programação e dados, e estou construindo um novo portfólio aqui.
+Possuo habilidades multidisciplinares com domínio de ferramentas analíticas e de gestão, e certificação de especialista em Power BI e Master Black Belt em Lean Six Sigma.<br><br> Conhecimento avançado em SQL e linguagem DAX, M e Power Query, e intermediário em Python, Alteryx, Knime e Microsoft Power Platform.<br><br>Atualmente, estou me dedicando à área de programação e dados, e estou construindo um novo portfólio aqui.
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/garyrainercv) 
