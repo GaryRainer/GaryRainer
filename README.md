@@ -2,8 +2,10 @@
 
 <div>
     <a href="https://github.com/GaryRainer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaryRainer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryRainer&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height=" 180em"
+        src="https://github-readme-stats.vercel.app/api?username=GaryRainer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryRainer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </a>
 </div>
 
@@ -27,8 +29,19 @@
 # Para contato, utilize as redes abaixo!
 
 <div>
-    <a href="https://discord.gg/ZEHhTejS" target="_blank"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="mailto:garyvanderlei@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/garyrainercv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5583988044923" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/ZEHhTejS" target="_blank"><img
+            src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white"
+            target="_blank"></a>
+    <a href="mailto:garyvanderlei@gmail.com"><img
+            src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"
+            target="_blank"></a>
+    <a href="https://www.linkedin.com/in/garyrainercv/" target="_blank"><img
+            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank"></a>
+    <a href="https://wa.me/5583988044923" target="_blank"><img
+            src="https://img.shields.io/badge/-Whatsapp-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white"
+            target="_blank"></a>
 </div>
+
+
+
