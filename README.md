@@ -28,20 +28,10 @@
 
 # Para contato, utilize as redes abaixo!
 
-<div>
-    <a href="https://discord.gg/ZEHhTejS" target="_blank"><img
-            src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white"
-            target="_blank"></a>
-    <a href="mailto:garyvanderlei@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"
-            target="_blank"></a>
-    <a href="https://www.linkedin.com/in/garyrainercv/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-    <a href="https://wa.me/5583988044923" target="_blank"><img
-            src="https://img.shields.io/badge/-Whatsapp-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white"
-            target="_blank"></a>
-</div>
-
+<div> 
+  <a href="https://discord.gg/ZEHhTejS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/garyrainercv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/5583988044923" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
+</d
 
 
